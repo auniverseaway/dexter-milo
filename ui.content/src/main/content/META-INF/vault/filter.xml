@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/dexter" mode="merge"/>
+    <filter root="/content/dexter" mode="merge"/>
+    <filter root="/content/dam/dexter/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/dexter" mode="merge"/>
+</workspaceFilter>

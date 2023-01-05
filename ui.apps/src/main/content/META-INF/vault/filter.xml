@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/dexter/clientlibs"/>
+    <filter root="/apps/dexter/components"/>
+    <filter root="/apps/dexter/i18n"/>
+</workspaceFilter>

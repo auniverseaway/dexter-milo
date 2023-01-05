@@ -1,0 +1,13 @@
+.page header {
+  height: unset;
+  position: unset;
+}
+
+.root.container {
+  width: unset;
+  margin: 0;
+}
+
+.page main > div {
+  display: block;
+}
